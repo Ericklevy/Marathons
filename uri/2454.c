@@ -6,14 +6,14 @@ int main(){
     scanf("%d",&R);
         if(P==1){
         if(R==1){
-            printf("A");
+            printf("A\n");
         }
         else if(R==0){
-            printf("B");
+            printf("B\n");
         }
     }
         if(P==0){
-        printf("C");
+        printf("C\n");
         }
 return 0;
 }
